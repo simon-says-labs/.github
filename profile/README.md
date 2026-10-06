@@ -2,8 +2,7 @@
   <img src="https://raw.githubusercontent.com/simon-says-labs/.github/main/assets/banner.png" width="100%" alt="Simon Says: small open-source tools that make everyday work calmer, with AI coding assistants and Home Assistant. Session Guard, Track Time, Hit the Deck.">
 </p>
 
-<p align="center">Small open-source tools that make everyday work calmer, with AI coding assistants and Home Assistant.<br>
-Every project speaks English, Deutsch, Français, Italiano and Español.</p>
+<p align="center">Every project speaks English, Deutsch, Français, Italiano and Español.</p>
 
 ## Projects
 
