@@ -10,6 +10,6 @@
 
 | Project | What it does |
 |---|---|
-| [claude-waechter](https://github.com/simon-says-labs/claude-waechter) | Shows which Claude Code session is waiting for you, right in the VS Code status bar. |
+| [Session Guard](https://github.com/simon-says-labs/session-guard) | Shows which Claude Code session is waiting for you, right in the VS Code status bar. |
 
 Ideas, bug reports and pull requests are welcome in each project's issue tracker.
