@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/simon-says-labs/.github/main/assets/banner.png" width="100%" alt="Simon Says: small open-source tools that make everyday work calmer, with AI coding assistants and Home Assistant. Session Guard, Track Time, Hit the Deck.">
+  <img src="https://raw.githubusercontent.com/simon-says-labs/.github/main/assets/banner.png" width="100%" alt="Simon Says: small open-source tools that make everyday work calmer, with AI coding assistants and Home Assistant. Session Guard, Track Time, Hit the Deck, Upgrade All.">
 </p>
 
 <p align="center">Every project speaks English, Deutsch, Français, Italiano and Español.</p>
@@ -18,6 +18,10 @@
   <tr>
     <td width="72" align="center"><img src="https://raw.githubusercontent.com/simon-says-labs/.github/main/assets/projects/hit-the-deck.png" width="56" alt=""></td>
     <td><a href="https://github.com/simon-says-labs/hit-the-deck"><b>Hit the Deck</b></a> · <i>Simon says: hit the deck!</i><br>A Stream Deck on your Home Assistant machine, with a configurator in the sidebar.</td>
+  </tr>
+  <tr>
+    <td width="72" align="center"><img src="https://raw.githubusercontent.com/simon-says-labs/.github/main/assets/projects/upgrade-all.png" width="56" alt=""></td>
+    <td><a href="https://github.com/simon-says-labs/upgrade-all"><b>Upgrade All</b></a> · <i>Simon says: upgrade all!</i><br>Keeps your Mac up to date with topgrade, fixes failed steps by itself and reports what happened.</td>
   </tr>
 </table>
 
