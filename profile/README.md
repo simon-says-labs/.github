@@ -24,7 +24,7 @@
     <td><a href="https://github.com/simon-says-labs/upgrade-all"><b>Upgrade All</b></a> · <i>Simon says: upgrade all!</i><br>🇬🇧 Keeps your Mac up to date with topgrade, fixes failed steps by itself and reports what happened.<br>🇩🇪 Hält deinen Mac mit topgrade aktuell, behebt fehlgeschlagene Schritte selbst und berichtet danach.</td>
   </tr>
   <tr>
-    <td width="72" align="center"><img src="https://raw.githubusercontent.com/simon-says-labs/.github/main/assets/projects/mind-the-limit.png" width="56" alt=""></td>
+    <td width="72" align="center"><img src="https://raw.githubusercontent.com/simon-says-labs/mind-the-limit/main/docs/icon.png" width="56" alt=""></td>
     <td><a href="https://github.com/simon-says-labs/mind-the-limit"><b>Mind the Limit</b></a> · <i>Simon says: mind the limit!</i><br>🇬🇧 Your Claude Code usage limits, live on a Divoom Timebox Evo next to your screen.<br>🇩🇪 Deine Claude-Code-Nutzungslimits live auf einer Divoom Timebox Evo neben dem Bildschirm.</td>
   </tr>
 </table>
